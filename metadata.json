@@ -1,0 +1,6 @@
+{
+  "name": "Vodafone Cash",
+  "description": "Vodafone Cash digital wallet client with server connectivity, balance checks, cards purchase, and recharge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

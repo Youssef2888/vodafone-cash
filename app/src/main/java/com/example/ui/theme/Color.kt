@@ -1,0 +1,43 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val VfRed = Color(0xFFE60000)
+val VfRedDark = Color(0xFFB30000)
+val VfRedLight = Color(0xFFFF1A1A)
+
+val DarkBg = Color(0xFF0A0A0F)
+val DarkCard = Color(0xFF161616)
+val DarkCardAlt = Color(0xFF1C1C1C)
+val DarkCardBorder = Color(0xFF2E2E2E)
+val DarkInputBg = Color(0xFF1F1F1F)
+val DarkText = Color(0xFFF2F2F2)
+val DarkTextMuted = Color(0xFF8A8A8A)
+val DarkTextDim = Color(0xFF5A5A5A)
+val DarkHeaderBg = Color(0xFF141414)
+val DarkNavBg = Color(0xFF141414)
+val DarkNavBorder = Color(0xFF2A2A2A)
+val DarkDivider = Color(0xFF242424)
+val DarkSuccessBg = Color(0xFF0F2A1A)
+val DarkSuccessFg = Color(0xFF4ADE80)
+val DarkErrorBg = Color(0xFF2A0F0F)
+val DarkErrorFg = Color(0xFFF87171)
+
+val LightBg = Color(0xFFF0F2F7)
+val LightCard = Color(0xFFFFFFFF)
+val LightCardAlt = Color(0xFFF7F8FB)
+val LightCardBorder = Color(0xFFE3E6EC)
+val LightInputBg = Color(0xFFF7F8FB)
+val LightText = Color(0xFF101114)
+val LightTextMuted = Color(0xFF6B7280)
+val LightTextDim = Color(0xFF9CA3AF)
+val LightHeaderBg = Color(0xFFFFFFFF)
+val LightNavBg = Color(0xFFFFFFFF)
+val LightNavBorder = Color(0xFFE3E6EC)
+val LightDivider = Color(0xFFE8EAEF)
+val LightSuccessBg = Color(0xFFDCFCE7)
+val LightSuccessFg = Color(0xFF15803D)
+val LightErrorBg = Color(0xFFFEE2E2)
+val LightErrorFg = Color(0xFFB91C1C)
+
+val StatusAmber = Color(0xFFF59E0B)
